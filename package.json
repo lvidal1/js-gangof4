@@ -4,7 +4,6 @@
   "main": "index.js",
   "author": "lvidal1 <lvida910@gmail.com>",
   "license": "MIT",
-  "type": "module",
   "devDependencies": {
     "@tsconfig/node16": "^1.0.3",
     "@types/node": "^18.0.6",
